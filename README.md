@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,25:feca57,50:48dbfb,75:ff9ff3,100:ff6b6b&height=240&section=header&text=Palamaparthi%20Gayathri%20Reddy&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=%E2%9C%A8%20CSE%20Student%20%7C%20Coder%20%7C%20Dreamer%20%7C%20Builder%20%E2%9C%A8&descAlignY=62&descColor=ffffff&animation=scaleIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,25:feca57,50:48dbfb,75:ff9ff3,100:ff6b6b&height=240&section=header&text=Palamaparthi%20Gayathri%20Reddy&fontSi[...]
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Gayathri+%F0%9F%8C%B8;Computer+Science+%26+Engineering+Student+%F0%9F%8E%93;Passionate+Problem+Solver+%F0%9F%A7%A9;Exploring+Code%2C+One+Bug+at+a+Time+%F0%9F%90%9B%E2%9E%9C%F0%9F%A6%8B;Let%E2%80%99s+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Gayathri+%F0%9F%8C%B8;Computer+Science+[...]
 
 <br/><br/>
 
@@ -15,7 +15,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Always%20Learning-%2348DBFB?style=for-the-badge&logo=bookstack&logoColor=black" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Gayathri-50&color=ff6b9d&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Gayathri-50&color=000000&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
@@ -23,9 +23,9 @@
 
 ## 🌈 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ3bHZxeWdoZjRxN3lzMm9rNWFxdXJia3hjaHhyMXVpbDZiNmp4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ3bHZxeWdoZjRxN3lzMm9rNWFxdXJia3hjaHhyMXVpbDZiNmp4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687q[...]
 
-### 👩‍💻 Palamaparthi Gayathri Reddy
+### 👩‍💻 <span style="color: #000000; font-weight: bold;">Palamaparthi Gayathri Reddy</span>
 
 > A passionate CSE undergrad who believes every great product starts with curious people who just can't stop asking *"what if?"*
 
@@ -119,13 +119,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=feca57&text_color=ffffff&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=radical&hide_border=true&background=0d1117&ring=ff6b9d&fire=feca57&currStreakLabel=48dbfb&sideLabels=ffffff&dates=94a3b8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=000000&icon_color=feca57&text_color=000000&inc[...]
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=radical&hide_border=true&background=0d1117&ring=000000&fire=feca57&currStreakLabel=48dbfb&sideLabels=000000&date[...]
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff&langs_count=8" width="42%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b9d&line=feca57&point=48dbfb" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=000000&text_color=000000&langs_count[...]
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=redical&hide_border=true&bg_color=0d1117&color=000000&line=feca57&point=48dbfb" width="55%" />
 
 </div>
 
@@ -145,13 +145,13 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-ask%20me-%23FF6B6B?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ask%20me-%23FECA57?style=flat-square&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ask%20me-%2348DBFB?style=flat-square&logo=openjdk&logoColor=black)
-![Web Dev](https://img.shields.io/badge/Web%20Dev-ask%20me-%23FF9FF3?style=flat-square&logo=html5&logoColor=black)
-![Git](https://img.shields.io/badge/Git-ask%20me-%23FF6B6B?style=flat-square&logo=git&logoColor=white)
-![CS Basics](https://img.shields.io/badge/CS%20Fundamentals-ask%20me-%23FECA57?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-ask%20me-%2348DBFB?style=flat-square&logo=github&logoColor=black)
+![C](https://img.shields.io/badge/C-ask%20me-%23000000?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ask%20me-%23000000?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ask%20me-%23000000?style=flat-square&logo=openjdk&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web%20Dev-ask%20me-%23000000?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ask%20me-%23000000?style=flat-square&logo=git&logoColor=white)
+![CS Basics](https://img.shields.io/badge/CS%20Fundamentals-ask%20me-%23000000?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-ask%20me-%23000000?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
