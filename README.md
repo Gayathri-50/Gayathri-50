@@ -1,95 +1,80 @@
-# 🌸 Hi there, I'm Gayathri Reddy 👋
+# 🌸 Hi there, I'm Pallamparthi Gayathri 👋
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff6b6b,25:feca57,50:48dbfb,75:ff9ff3,100:ff6b6b&text=Palamaparthi%20Gayathri%20Reddy&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff0080,25:7928ca,50:2afadf,75:00c6ff,100:ff0080&text=Pallamparthi%20Gayathri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=24&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Passionate+Developer+%F0%9F%92%BB;DSA+%7C+Web+Development+%7C+AI%2FML;Always+Learning+New+Things+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student+💻;Passionate+Developer+🚀;DSA+%7C+Web+Development+%7C+AI%2FML;Dream+Big.+Code+Bigger.+🔥"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Gayathri-50&label=Profile+Views&color=000000&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Gayathri-50&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Gayathri-50?style=for-the-badge&color=feca57&labelColor=000000" />
+<img src="https://img.shields.io/github/followers/Gayathri-50?style=for-the-badge&logo=github&color=00c6ff&labelColor=000000"/>
 
-<img src="https://img.shields.io/github/stars/Gayathri-50?style=for-the-badge&color=48dbfb&labelColor=000000" />
+<img src="https://img.shields.io/github/stars/Gayathri-50?style=for-the-badge&logo=star&color=ff0080&labelColor=000000"/>
 
 </div>
 
 ---
 
-# 🌈 About Me
+# ⚡ About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-### 👩‍💻 Pallamparthi Gayathri Reddy
+### 👩‍💻 Pallamparthi Gayathri
 
-🎓 B.E. Computer Science & Engineering Student
-🌱 Currently learning **DSA, Web Development & AI/ML**
-💡 Passionate about building real-world projects
-🤝 Open for collaborations & open source contributions
-⚡ Fun fact: *Debugging feels easier with snacks 🍕*
+🎓 B.E. Computer Science Engineering Student
+🌱 Learning **DSA · Full Stack · AI/ML**
+🚀 Building projects and improving every day
+💡 Interested in coding, innovation & open source
+🤝 Open to collaborations and teamwork
+⚡ Fun Fact: *Turning coffee ☕ into code since forever*
 
 <br/>
 
 ```cpp
-while(!success) {
-    keepLearning();
-    keepBuilding();
-}
+class Gayathri {
+    public:
+       string mindset = "Never Stop Learning 🚀";
+};
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Tech Arsenal
 
 <div align="center">
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript&theme=dark"/>
 
 <br/><br/>
 
 ## 🌐 Frontend & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
-## 📚 Currently Exploring
+## 🔥 Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tensorflow&theme=light" />
-
-</div>
-
----
-
-# ✨ Current Focus
-
-<div align="center">
-
-| 🚀 Domain                    | 🌟 Status            |
-| ---------------------------- | -------------------- |
-| Data Structures & Algorithms | 🔄 Learning          |
-| Web Development              | 🌐 Building Projects |
-| Open Source                  | 🤝 Exploring         |
-| AI / ML Basics               | 🤖 Learning          |
-| Git & GitHub                 | ✅ Comfortable        |
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tensorflow&theme=dark"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=feca57&icon_color=48dbfb&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=ff0080&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=radical&hide_border=true&background=0d1117&ring=feca57&fire=ff6b6b&currStreakLabel=48dbfb"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=ff0080&currStreakLabel=ffffff"/>
 
 </div>
 
@@ -97,7 +82,7 @@ while(!success) {
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=feca57&text_color=ffffff"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=ffffff"/>
 
 </div>
 
@@ -107,17 +92,17 @@ while(!success) {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gayathri-50&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gayathri-50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=react-dark&hide_border=true&bg_color=0d1117&color=feca57&line=48dbfb&point=ff6b6b"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=ff0080&point=ffffff"/>
 
 </div>
 
@@ -127,21 +112,21 @@ while(!success) {
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-Language-black?style=for-the-badge\&logo=c)
+![C](https://img.shields.io/badge/C-Language-000000?style=for-the-badge\&logo=c)
 
-![Python](https://img.shields.io/badge/Python-Programming-black?style=for-the-badge\&logo=python)
+![Python](https://img.shields.io/badge/Python-Programming-000000?style=for-the-badge\&logo=python)
 
-![Java](https://img.shields.io/badge/Java-Development-black?style=for-the-badge\&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-Development-000000?style=for-the-badge\&logo=openjdk)
 
-![Web Dev](https://img.shields.io/badge/Web-Development-black?style=for-the-badge\&logo=google-chrome)
+![Web Dev](https://img.shields.io/badge/Web-Development-000000?style=for-the-badge\&logo=google-chrome)
 
-![Git](https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge\&logo=git)
+![Git](https://img.shields.io/badge/Git-Version%20Control-000000?style=for-the-badge\&logo=git)
 
 </div>
 
 ---
 
-# 🌸 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -177,8 +162,8 @@ while(!success) {
 
 <div align="center">
 
-### ✨ “Dream it. Code it. Build it.” ✨
+# ✨ DREAM BIG • BUILD BIGGER • CODE HARDER ✨
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff0080,25:7928ca,50:2afadf,75:00c6ff,100:ff0080"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff6b6b,25:feca57,50:48dbfb,75:ff9ff3,100:ff6b6b" />
