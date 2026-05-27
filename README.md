@@ -24,7 +24,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 👩‍💻 PalLamparthi Gayathri Reddy
+### 👩‍💻 Pallamparthi Gayathri Reddy
 
 🎓 B.E. Computer Science & Engineering Student
 🌱 Currently learning **DSA, Web Development & AI/ML**
