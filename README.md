@@ -1,14 +1,14 @@
-Hi there, I'm  Gayathri 
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff69b4,25:9b59b6,50:3498db,75:00c6ff,100:36d1dc&text=Pallamparthi%20Gayathri&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
+👋 Hi, I'm Gayathri
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,100:1e293b&height=220&section=header&text=Pallamparthi%20Gayathri&fontSize=50&fontColor=38bdf8"/>
 
 <br>
 Computer Science Student at Madras Institute of Technology, Anna University
 
 ### 🚀 Full Stack Developer | AI/ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Building+Impactful+Projects;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Always+Learning+Something+New"/>
 
 <br>
 
@@ -19,7 +19,7 @@ Computer Science Student at Madras Institute of Technology, Anna University
 ---
 <p align="center">
 
-Passionate about building scalable web applications, exploring AI technologies, and solving real-world problems through software engineering.
+<b>Passionate about building scalable web applications, exploring AI technologies, and solving real-world problems through software engineering.</b>
 
 </p>
 
