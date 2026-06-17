@@ -1,14 +1,33 @@
-# 🌸 Hi, I'm Pallamparthi Gayathri 👋
+Hi there, I'm  Gayathri 
+<div align="center">
 
-### 🚀 Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff69b4,25:9b59b6,50:3498db,75:00c6ff,100:36d1dc&text=Pallamparthi%20Gayathri&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+### Computer Science Student at Madras Institute of Technology, Anna University
+
+### 🚀 Full Stack Developer | AI/ML Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Building+Impactful+Projects;Always+Learning+Something+New"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Gayathri-50&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
 
 ---
+<p align="center">
 
-## 👩‍💻 About Me
+Passionate about building scalable web applications, exploring AI technologies, and solving real-world problems through software engineering.
 
-🎓 Final Year B.E. Computer Science Engineering Student
+</p>
 
-💻 Passionate about Full Stack Development and creating real-world applications
+# 👩‍💻 About Me
+
+🎓  B.E. Computer Science Engineering Student
+
+💻 Passionate about Full Stack Development and building real-world applications
 
 🤖 Exploring Artificial Intelligence, Machine Learning and Data Science
 
@@ -29,95 +48,104 @@ public:
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧠 MindEase AI
+## 🧠 MindEase AI
 
-AI-powered mental wellness platform designed to help users track moods, build healthy habits and interact with an AI assistant.
-
-**Tech Stack:** React • Node.js • Express.js • MongoDB • Gemini AI
-
-**Key Features**
-
-* AI Mental Health Assistant
-* Mood Tracking Dashboard
-* Habit Management System
-* Personal Journal
-* JWT Authentication
+AI-powered mental wellness platform built using React, Node.js, Express.js, MongoDB and Gemini AI.
 
 ---
 
-### 🚌 BusBookingApp
+## 🚌 BusBookingApp
 
-A modern online bus reservation system with booking and management features.
+Modern online bus reservation and management system.
 
-**Tech Stack:** React • Node.js • MongoDB
 
-**Key Features**
+## 🌍 NSS Smart Community Platform
 
-* Bus Search & Filtering
-* Seat Selection
-* Booking Management
-* Responsive User Interface
+Community engagement platform for organizing events and volunteer activities.
+---
 
-###
+## 🤖 Machine Learning Projects
 
 ---
 
-### 🌍 NSS Smart Community Platform
+# 🛠️ Tech Stack
 
-A community engagement platform for organizing events and volunteer activities.
+## 💻 Languages
 
-**Tech Stack:** JavaScript • HTML • CSS
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript"/>
+</p>
 
----
+## 🌐 Frontend
 
-## 💼 Experience
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
 
-### 🏢 Machine Learning Intern
+## ⚙️ Backend
 
-* Worked on real-world machine learning projects
-* Built predictive and classification models
-* Applied data preprocessing and feature engineering techniques
-* Gained hands-on experience with Scikit-Learn, Pandas and NumPy
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
----
+## 🗄️ Databases
 
-## 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
 
-### 💻 Languages
+## 🔧 Tools & Platforms
 
- 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,render"/>
+</p>
 
-### 🌐 Frontend
-
-### ⚙️ Backend
-
-### 🗄️ Databases
-
-### 🔧 Tools & Platforms
-
-### 🤖 AI / ML
-
-* NumPy
-* Pandas
-* Scikit-Learn
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gayathri-50&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
@@ -130,54 +158,78 @@ Goal:
   - Become a Strong Software Engineer
 ```
 
----
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🏅 Machine Learning Internship Completion
 
 🏅 Built Multiple Full Stack Applications
 
-🏅 Active GitHub Contributor
-
 🏅 Hands-on Experience with MERN Stack
 
 🏅 Developed AI & Machine Learning Projects
 
+🏅 Open Source Collaboration Experience
+
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 ✅ Master Data Structures & Algorithms
 
 ✅ Strengthen Full Stack Development Skills
 
-✅ Contribute to Open Source Projects
-
 ✅ Learn System Design
+
+✅ Contribute to Open Source Projects
 
 ✅ Build Scalable AI-Powered Applications
 
-✅ Secure a Software Development Role
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Gayathri-50">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_PROFILE">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gaya3daddy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 💭 Favorite Quote
+# 💭 Favorite Quote
 
 > "Consistency beats intensity when intensity is not consistent."
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
-### ✨ DREAM BIG • BUILD BIGGER • CODE HARDER ✨
+<div align="center">
+
+## ✨ DREAM BIG • BUILD BIGGER • CODE HARDER ✨
 
 *"Building solutions today, learning for tomorrow."*
 
 ⭐ Thanks for visiting my profile!
+
+</div>
