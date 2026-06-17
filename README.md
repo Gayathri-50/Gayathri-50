@@ -4,7 +4,7 @@ Hi there, I'm  Gayathri
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff69b4,25:9b59b6,50:3498db,75:00c6ff,100:36d1dc&text=Pallamparthi%20Gayathri&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
-### Computer Science Student at Madras Institute of Technology, Anna University
+Computer Science Student at Madras Institute of Technology, Anna University
 
 ### 🚀 Full Stack Developer | AI/ML Enthusiast
 
@@ -45,28 +45,6 @@ public:
     string mindset = "Never Stop Learning 🚀";
 };
 ```
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 MindEase AI
-
-AI-powered mental wellness platform built using React, Node.js, Express.js, MongoDB and Gemini AI.
-
----
-
-## 🚌 BusBookingApp
-
-Modern online bus reservation and management system.
-
-
-## 🌍 NSS Smart Community Platform
-
-Community engagement platform for organizing events and volunteer activities.
----
-
-## 🤖 Machine Learning Projects
 
 ---
 
