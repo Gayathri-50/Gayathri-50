@@ -1,12 +1,12 @@
 
 <div align="center">
 👋 Hi, I'm Gayathri
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,100:1e293b&height=220&section=header&text=Pallamparthi%20Gayathri&fontSize=50&fontColor=38bdf8"/>
 
+<img src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:000000,100:0ea5e9&text=Pallamparthi%20Gayathri&fontSize=50&fontColor=ffffff"/>
 <br>
-Computer Science Student at Madras Institute of Technology, Anna University
 
-### 🚀 Full Stack Developer | AI/ML Enthusiast
+
+### Computer Science Student at Madras Institute of Technology, Anna University
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Always+Learning+Something+New"/>
 
