@@ -11,7 +11,7 @@
 
 ### Computer Science Student at Madras Institute of Technology, Anna University
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;"/>
 
 <br>
 
@@ -52,7 +52,7 @@ public:
 ---
 
 # 🛠️ Tech Stack
-## ~/tech-stack
+
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -68,6 +68,12 @@ public:
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 
 # 📊 GitHub Analytics
@@ -117,10 +123,6 @@ Learning:
   - Data Structures & Algorithms
   - Full Stack Development
   - Machine Learning
-  - System Design
-
-Goal:
-  - Become a Strong Software Engineer
 ```
 
 
@@ -138,15 +140,11 @@ Goal:
 
 ---
 
-# 🎯 2026 Goals
+# 🎯  Goals
 
 ✅ Master Data Structures & Algorithms
 
 ✅ Strengthen Full Stack Development Skills
-
-✅ Learn System Design
-
-✅ Contribute to Open Source Projects
 
 ✅ Build Scalable AI-Powered Applications
 
