@@ -1,169 +1,183 @@
-# 🌸 Hi there, I'm Pallamparthi Gayathri 👋
+# 🌸 Hi, I'm Pallamparthi Gayathri 👋
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff0080,25:7928ca,50:2afadf,75:00c6ff,100:ff0080&text=Pallamparthi%20Gayathri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student+💻;Passionate+Developer+🚀;DSA+%7C+Web+Development+%7C+AI%2FML;Dream+Big.+Code+Bigger.+🔥"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Gayathri-50&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Gayathri-50?style=for-the-badge&logo=github&color=00c6ff&labelColor=000000"/>
-
-<img src="https://img.shields.io/github/stars/Gayathri-50?style=for-the-badge&logo=star&color=ff0080&labelColor=000000"/>
-
-</div>
+### 🚀 Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast
 
 ---
 
-# ⚡ About Me
+## 👩‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+🎓 Final Year B.E. Computer Science Engineering Student
 
-### 👩‍💻 Pallamparthi Gayathri
+💻 Passionate about Full Stack Development and creating real-world applications
 
-🎓 B.E. Computer Science Engineering Student
-🌱 Learning **DSA · Full Stack · AI/ML**
-🚀 Building projects and improving every day
-💡 Interested in coding, innovation & open source
-🤝 Open to collaborations and teamwork
-⚡ Fun Fact: *Turning coffee ☕ into code since forever*
+🤖 Exploring Artificial Intelligence, Machine Learning and Data Science
 
-<br/>
+🌱 Currently learning Data Structures & Algorithms, System Design and Advanced Backend Development
+
+🚀 Love transforming ideas into impactful digital products
+
+🤝 Open to internships, collaborations and open-source contributions
+
+⚡ Fun Fact: I enjoy building projects more than watching tutorials
 
 ```cpp
 class Gayathri {
-    public:
-       string mindset = "Never Stop Learning 🚀";
+public:
+    string mindset = "Never Stop Learning 🚀";
 };
 ```
 
 ---
 
-# 🚀 Tech Arsenal
+## 🚀 Featured Projects
 
-<div align="center">
+### 🧠 MindEase AI
 
-## 💻 Languages
+AI-powered mental wellness platform designed to help users track moods, build healthy habits and interact with an AI assistant.
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript&theme=dark"/>
+**Tech Stack:** React • Node.js • Express.js • MongoDB • Gemini AI
 
-<br/><br/>
+**Key Features**
 
-## 🌐 Frontend & Tools
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"/>
-
-<br/><br/>
-
-## 🔥 Currently Exploring
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tensorflow&theme=dark"/>
-
-</div>
+* AI Mental Health Assistant
+* Mood Tracking Dashboard
+* Habit Management System
+* Personal Journal
+* JWT Authentication
 
 ---
 
-# 📈 GitHub Analytics
+### 🚌 BusBookingApp
 
-<div align="center">
+A modern online bus reservation system with booking and management features.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=ff0080&text_color=ffffff"/>
+**Tech Stack:** React • Node.js • MongoDB
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=ff0080&currStreakLabel=ffffff"/>
+**Key Features**
 
-</div>
+* Bus Search & Filtering
+* Seat Selection
+* Booking Management
+* Responsive User Interface
 
-<br/>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=ffffff"/>
-
-</div>
+###
 
 ---
 
-# 🏆 GitHub Trophies
+### 🌍 NSS Smart Community Platform
 
-<div align="center">
+A community engagement platform for organizing events and volunteer activities.
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gayathri-50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
+**Tech Stack:** JavaScript • HTML • CSS
 
 ---
 
-# 📊 Contribution Graph
+## 💼 Experience
 
-<div align="center">
+### 🏢 Machine Learning Intern
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=ff0080&point=ffffff"/>
-
-</div>
-
----
-
-# 💬 Ask Me About
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-Language-000000?style=for-the-badge\&logo=c)
-
-![Python](https://img.shields.io/badge/Python-Programming-000000?style=for-the-badge\&logo=python)
-
-![Java](https://img.shields.io/badge/Java-Development-000000?style=for-the-badge\&logo=openjdk)
-
-![Web Dev](https://img.shields.io/badge/Web-Development-000000?style=for-the-badge\&logo=google-chrome)
-
-![Git](https://img.shields.io/badge/Git-Version%20Control-000000?style=for-the-badge\&logo=git)
-
-</div>
+* Worked on real-world machine learning projects
+* Built predictive and classification models
+* Applied data preprocessing and feature engineering techniques
+* Gained hands-on experience with Scikit-Learn, Pandas and NumPy
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-<a href="https://github.com/Gayathri-50">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+ 
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🌐 Frontend
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### ⚙️ Backend
 
-</div>
+### 🗄️ Databases
 
----
+### 🔧 Tools & Platforms
 
-# 🐍 Contribution Snake
+### 🤖 AI / ML
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+* NumPy
+* Pandas
+* Scikit-Learn
 
 ---
 
-<div align="center">
+## 📊 GitHub Analytics
 
-# ✨ DREAM BIG • BUILD BIGGER • CODE HARDER ✨
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff0080,25:7928ca,50:2afadf,75:00c6ff,100:ff0080"/>
+## 🏆 GitHub Trophies
 
-</div>
+---
+
+## 📈 Contribution Graph
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - Full Stack Development
+  - Machine Learning
+  - System Design
+
+Goal:
+  - Become a Strong Software Engineer
+```
+
+---
+
+## 🏆 Achievements
+
+🏅 Machine Learning Internship Completion
+
+🏅 Built Multiple Full Stack Applications
+
+🏅 Active GitHub Contributor
+
+🏅 Hands-on Experience with MERN Stack
+
+🏅 Developed AI & Machine Learning Projects
+
+---
+
+## 🎯 2026 Goals
+
+✅ Master Data Structures & Algorithms
+
+✅ Strengthen Full Stack Development Skills
+
+✅ Contribute to Open Source Projects
+
+✅ Learn System Design
+
+✅ Build Scalable AI-Powered Applications
+
+✅ Secure a Software Development Role
+
+---
+
+## 🌐 Connect With Me
+
+---
+
+## 💭 Favorite Quote
+
+> "Consistency beats intensity when intensity is not consistent."
+
+---
+
+## 🐍 Contribution Snake
+
+---
+
+### ✨ DREAM BIG • BUILD BIGGER • CODE HARDER ✨
+
+*"Building solutions today, learning for tomorrow."*
+
+⭐ Thanks for visiting my profile!
