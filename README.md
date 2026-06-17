@@ -1,8 +1,11 @@
 
 <div align="center">
-👋 Hi, I'm Gayathri
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:000000,100:0ea5e9&text=Pallamparthi%20Gayathri&fontSize=50&fontColor=ffffff"/>
+<h1 align="center">
+  👋 Hi, I'm <strong>Gayathri</strong>
+</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=220&section=header&text=Pallamparthi%20Gayathri&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 <br>
 
 
