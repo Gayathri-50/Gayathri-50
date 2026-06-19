@@ -26,11 +26,11 @@
 
 ### 👩‍💻 Pallamparthi Gayathri
 
-🎓 B.E. Computer Science Engineering Student
-🌱 Learning *DSA · Full Stack · AI/ML*
-🚀 Building projects and improving every day
-💡 Interested in coding, innovation & open source
-🤝 Open to collaborations and teamwork
+🎓 B.E. Computer Science Engineering Student<br>
+🌱 Learning *DSA · Full Stack · AI/ML<br>
+🚀 Building projects and improving every day<br>
+💡 Interested in coding, innovation & open source<br>
+🤝 Open to collaborations and teamwork<br>
 ⚡ Fun Fact: Turning coffee ☕ into code since forever
 
 <br/>
@@ -43,8 +43,6 @@ class Gayathri {
 
 
 ---
-# 💫 About Me:
-🎓 B.E. Computer Science Engineering Student<br><br>💻 Passionate about Full Stack Development and building real-world applications<br><br>🌱 Currently learning Data Structures & Algorithms, System Design and Advanced Backend Development<br><br>🚀 Love transforming ideas into impactful digital products<br><br>🤝 Open to internships, collaborations and open-source contributions<br><br>⚡ Fun Fact: I enjoy building projects more than watching tutorials
 
 
 ## 🌐 Socials:
