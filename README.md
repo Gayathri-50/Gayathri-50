@@ -2,8 +2,6 @@
 
 # Pallamparthi Gayathri
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student+%F0%9F%92%BB;Passionate+Developer+%F0%9F%9A%80;DSA+%7C+Web+Development+%7C+AI%2FML;Dream+Big.+Code+Bigger.+%F0%9F%94%A5"/>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Gayathri-50&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
