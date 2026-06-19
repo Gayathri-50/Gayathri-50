@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:334155&text=Gayathri%20&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:0f0f0f&text=Gayathri%20&fontColor=39ff14&fontSize=55&animation=twinkling&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descAlignY=60&descAlign=50&descSize=18"/>
 # 💫 About Me:
 🎓 B.E. Computer Science Engineering Student<br><br>💻 Passionate about Full Stack Development and building real-world applications<br><br><br>🌱 Currently learning Data Structures & Algorithms, System Design and Advanced Backend Development<br><br>🚀 Love transforming ideas into impactful digital products<br><br>🤝 Open to internships, collaborations and open-source contributions<br><br>⚡ Fun Fact: I enjoy building projects more than watching tutorials
 
