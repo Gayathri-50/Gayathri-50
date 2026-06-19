@@ -1,12 +1,75 @@
+<div align="center">
+
+# Pallamparthi Gayathri
+
+**`CSE Student @ MIT Chennai · Aspiring Software Developer`**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Java+%7C+Web+Development+%7C+DSA;2nd+Year+Computer+Science+%40+MIT+Chennai;Always+up+for+a+coding+challenge!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student+💻;Passionate+Developer+🚀;DSA+%7C+Web+Development+%7C+AI%2FML;Dream+Big.+Code+Bigger.+🔥"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Gayathri-50&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Gayathri-50?style=for-the-badge&logo=github&color=00c6ff&labelColor=000000"/>
+
+<img src="https://img.shields.io/github/stars/Gayathri-50?style=for-the-badge&logo=star&color=ff0080&labelColor=000000"/>
+
+</div>
+
+---
 # 💫 About Me:
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
 🎓 B.E. Computer Science Engineering Student<br>🌱 Learning DSA · Full Stack · AI/ML<br>🚀 Building projects and improving every day<br>💡 Interested in coding, innovation & open source<br>🤝 Open to collaborations and teamwork<br>⚡ Fun Fact: Turning coffee ☕ into code since forever
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GAYATHRI P) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaya3daddy@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 💻 Tech Stack
+
+## 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+## ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+## ☁️ Deployment & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Gayathri-50&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Gayathri-50&theme=dark&hide_border=false)<br/>
@@ -18,9 +81,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gayathri-50&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 📊 Contribution Graph
 
+<div align="center">
 
- 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=ff0080&point=ffffff"/>
+
+</div>
