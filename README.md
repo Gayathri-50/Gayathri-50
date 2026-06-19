@@ -31,10 +31,10 @@
 
 <br/>
 
-cpp
-class Gayathri {
-    public:
-       string mindset = "Never Stop Learning 🚀";
+cpp<br>
+class Gayathri {<br>
+    public:<br>
+       string mindset = "Never Stop Learning 🚀";<br>
 };
 
 
