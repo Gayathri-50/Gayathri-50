@@ -1,6 +1,21 @@
 # 💫 About Me:
 🎓 B.E. Computer Science Engineering Student<br><br>💻 Passionate about Full Stack Development and building real-world applications<br><br>🤖 Exploring Artificial Intelligence, Machine Learning and Data Science<br><br>🌱 Currently learning Data Structures & Algorithms, System Design and Advanced Backend Development<br><br>🚀 Love transforming ideas into impactful digital products<br><br>🤝 Open to internships, collaborations and open-source contributions<br><br>⚡ Fun Fact: I enjoy building projects more than watching tutorials
 
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12"/>
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight&hide_border=false&border_radius=12"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=tokyonight&hide_border=false&border_radius=12"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=tokyo-night&hide_border=false"/>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gayathri-50) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaya3daddy@gmail.com) 
