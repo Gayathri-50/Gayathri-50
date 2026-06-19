@@ -1,4 +1,48 @@
+# 🌸 Hi there, I'm Pallamparthi Gayathri 👋
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff0080,25:7928ca,50:2afadf,75:00c6ff,100:ff0080&text=Pallamparthi%20Gayathri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student+💻;Passionate+Developer+🚀;DSA+%7C+Web+Development+%7C+AI%2FML;Dream+Big.+Code+Bigger.+🔥"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Gayathri-50&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Gayathri-50?style=for-the-badge&logo=github&color=00c6ff&labelColor=000000"/>
+
+<img src="https://img.shields.io/github/stars/Gayathri-50?style=for-the-badge&logo=star&color=ff0080&labelColor=000000"/>
+
+</div>
+
+---
+
+# ⚡ About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+### 👩‍💻 Pallamparthi Gayathri
+
+🎓 B.E. Computer Science Engineering Student
+🌱 Learning *DSA · Full Stack · AI/ML*
+🚀 Building projects and improving every day
+💡 Interested in coding, innovation & open source
+🤝 Open to collaborations and teamwork
+⚡ Fun Fact: Turning coffee ☕ into code since forever
+
+<br/>
+
+cpp
+class Gayathri {
+    public:
+       string mindset = "Never Stop Learning 🚀";
+};
+
+
+---
 # 💫 About Me:
 🎓 B.E. Computer Science Engineering Student<br><br>💻 Passionate about Full Stack Development and building real-world applications<br><br>🌱 Currently learning Data Structures & Algorithms, System Design and Advanced Backend Development<br><br>🚀 Love transforming ideas into impactful digital products<br><br>🤝 Open to internships, collaborations and open-source contributions<br><br>⚡ Fun Fact: I enjoy building projects more than watching tutorials
 
