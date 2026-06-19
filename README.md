@@ -21,12 +21,6 @@
 🎓 B.E. Computer Science Engineering Student<br>🌱 Learning DSA · Full Stack · AI/ML<br>🚀 Building projects and improving every day<br>💡 Interested in coding, innovation & open source<br>🤝 Open to collaborations and teamwork<br>⚡ Fun Fact: Turning coffee ☕ into code since forever
 <br/>
 
-cpp
-class Gayathri {
-    public:
-       string mindset = "Never Stop Learning 🚀";
-};
-
 
 ---
 
