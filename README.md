@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:334155&text=Gayathri%20M&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 # 💫 About Me:
 🎓 B.E. Computer Science Engineering Student<br><br>💻 Passionate about Full Stack Development and building real-world applications<br><br>🤖 Exploring Artificial Intelligence, Machine Learning and Data Science<br><br>🌱 Currently learning Data Structures & Algorithms, System Design and Advanced Backend Development<br><br>🚀 Love transforming ideas into impactful digital products<br><br>🤝 Open to internships, collaborations and open-source contributions<br><br>⚡ Fun Fact: I enjoy building projects more than watching tutorials
 
