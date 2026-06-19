@@ -2,7 +2,7 @@
 
 # Pallamparthi Gayathri
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Java+%7C+Web+Development+%7C+DSA;2nd+Year+Computer+Science+%40+MIT+Chennai;Always+up+for+a+coding+challenge!" alt="Typing SVG" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student+💻;Passionate+Developer+🚀;DSA+%7C+Web+Development+%7C+AI%2FML;Dream+Big.+Code+Bigger.+🔥"/>
 
 <br/>
