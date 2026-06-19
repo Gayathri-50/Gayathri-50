@@ -1,7 +1,7 @@
 <div align="center">
 
 # Pallamparthi Gayathri
-**`Computer Engineering Student `**
+
 
 <br/>
 
@@ -19,10 +19,34 @@
 <img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 🎓 B.E. Computer Science Engineering Student<br>🌱 Learning DSA · Full Stack · AI/ML<br>🚀 Building projects and improving every day<br>💡 Interested in coding, innovation & open source<br>🤝 Open to collaborations and teamwork<br>⚡ Fun Fact: Turning coffee ☕ into code since forever
+<br/>
+
+cpp
+class Gayathri {
+    public:
+       string mindset = "Never Stop Learning 🚀";
+};
+
+
+---
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GAYATHRI P) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaya3daddy@gmail.com) 
+<div align="left">
+
+<a href="https://github.com/Gayathri-50">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 # 💻 Tech Stack
 
