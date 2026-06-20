@@ -1,9 +1,13 @@
+
 <div align="center">
 
 # Pallamparthi Gayathri
 
+### Full Stack Developer • AI Enthusiast • Computer Science Student
 
-<br/>
+Building scalable applications, exploring AI technologies, and solving real-world problems through software engineering.
+
+</div>
 
 
 <img src="https://komarev.com/ghpvc/?username=Gayathri-50&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
@@ -41,10 +45,20 @@
 </a>
 
 </div>
+## 🚀 Featured Projects
+
+### 🧠 MindEase AI
+AI-powered mental wellness platform featuring mood tracking, journaling, habits management and intelligent chatbot support.
+
+### 🚌 BusBookingApp
+Full-stack bus reservation system with booking management, seat selection and payment integration.
+
+### 🤖 Support Ticket Classifier
+Machine Learning project that automatically categorizes customer support tickets using NLP techniques.
 
 # 💻 Tech Stack
 
-## 🎨 Frontend Development
+## 🎨 Frontend 
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -53,7 +67,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
-## ⚙️ Backend Development
+## ⚙️ Backend 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -68,7 +82,7 @@
 </p>
 
 
-## 💻 Programming Languages
+## 💻 Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -76,7 +90,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-## ☁️ Deployment & Tools
+## ☁️ Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
@@ -90,8 +104,9 @@
 ![](https://streak-stats.demolab.com/?user=Gayathri-50&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gayathri-50&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gayathri-50&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Gayathri-50/Gayathri-50/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -101,5 +116,10 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=ff0080&point=ffffff"/>
+
+</div>
+<div align="center">
+
+### Code • Learn • Build • Repeat 🚀
 
 </div>
