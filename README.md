@@ -7,9 +7,6 @@
 
 Building scalable applications, exploring AI technologies, and solving real-world problems through software engineering.
 
-</div>
-
-
 <img src="https://komarev.com/ghpvc/?username=Gayathri-50&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Gayathri-50?style=for-the-badge&logo=github&color=00c6ff&labelColor=000000"/>
@@ -45,16 +42,6 @@ Building scalable applications, exploring AI technologies, and solving real-worl
 </a>
 
 </div>
-## 🚀 Featured Projects
-
-### 🧠 MindEase AI
-AI-powered mental wellness platform featuring mood tracking, journaling, habits management and intelligent chatbot support.
-
-### 🚌 BusBookingApp
-Full-stack bus reservation system with booking management, seat selection and payment integration.
-
-### 🤖 Support Ticket Classifier
-Machine Learning project that automatically categorizes customer support tickets using NLP techniques.
 
 # 💻 Tech Stack
 
@@ -104,9 +91,6 @@ Machine Learning project that automatically categorizes customer support tickets
 ![](https://streak-stats.demolab.com/?user=Gayathri-50&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gayathri-50&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Gayathri-50/Gayathri-50/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
