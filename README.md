@@ -87,23 +87,6 @@ Building scalable applications, exploring AI technologies, and solving real-worl
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=ff0080&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=ff0080&currStreakLabel=ffffff"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=ffffff"/>
-
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Gayathri-50&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
