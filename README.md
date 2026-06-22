@@ -93,10 +93,13 @@ public:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![](https://streak-stats.demolab.com?user=Gayathri-50&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=tokyonight)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
