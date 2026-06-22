@@ -98,12 +98,11 @@ public:
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=tokyo-night"/>
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=tokyonight)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 # 📊 Contribution Graph
 
