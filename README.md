@@ -19,7 +19,7 @@ Building scalable applications, exploring AI technologies, and solving real-worl
 ---
 # 💫 About Me:
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" width="380" alt="Coding Girl" src="https://raw.githubusercontent.com/Gayathri-50/Gayathri-50/main/assets/coding-girl.png"/>
 
 🎓 B.E. Computer Science Engineering Student<br>🌱 Learning DSA · Full Stack · AI/ML<br>🚀 Building projects and improving every day<br>💡 Interested in coding, innovation & open source<br>🤝 Open to collaborations and teamwork<br>
 ⚡ Fun Fact: Turning coffee ☕ into code since forever
