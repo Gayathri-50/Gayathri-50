@@ -4,6 +4,7 @@
 # Pallamparthi Gayathri
 
 ### Full Stack Developer • AI Enthusiast • Computer Science Student
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;DSA+Learner;Open+Source+Contributor"/>
 
 Building scalable applications, exploring AI technologies, and solving real-world problems through software engineering.
 
@@ -18,6 +19,7 @@ Building scalable applications, exploring AI technologies, and solving real-worl
 ---
 # 💫 About Me:
 <img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 🎓 B.E. Computer Science Engineering Student<br>🌱 Learning DSA · Full Stack · AI/ML<br>🚀 Building projects and improving every day<br>💡 Interested in coding, innovation & open source<br>🤝 Open to collaborations and teamwork<br>
 ⚡ Fun Fact: Turning coffee ☕ into code since forever
