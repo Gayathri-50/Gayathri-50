@@ -28,7 +28,6 @@ public:
     string mindset = "Never Stop Learning 🚀";
 };
 ```
-</br>
 ---
 
 
