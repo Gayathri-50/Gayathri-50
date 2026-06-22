@@ -18,8 +18,8 @@ Building scalable applications, exploring AI technologies, and solving real-worl
 
 ---
 # 💫 About Me:
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 🎓 B.E. Computer Science Engineering Student<br>🌱 Learning DSA · Full Stack · AI/ML<br>🚀 Building projects and improving every day<br>💡 Interested in coding, innovation & open source<br>🤝 Open to collaborations and teamwork<br>
 ⚡ Fun Fact: Turning coffee ☕ into code since forever
 
