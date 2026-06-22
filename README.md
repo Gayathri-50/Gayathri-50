@@ -98,7 +98,8 @@ public:
 ![](https://streak-stats.demolab.com/?user=Gayathri-50&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gayathri-50&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+![](https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![](https://streak-stats.demolab.com/?user=Gayathri-50&theme=tokyonight)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
