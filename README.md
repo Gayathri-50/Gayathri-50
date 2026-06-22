@@ -19,16 +19,15 @@ Building scalable applications, exploring AI technologies, and solving real-worl
 # 💫 About Me:
 <img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-🎓 B.E. Computer Science Engineering Student<br>🌱 Learning DSA · Full Stack · AI/ML<br>🚀 Building projects and improving every day<br>💡 Interested in coding, innovation & open source<br>🤝 Open to collaborations and teamwork<br>⚡ Fun Fact: Turning coffee ☕ into code since forever
-<br>
-cpp
+🎓 B.E. Computer Science Engineering Student<br>🌱 Learning DSA · Full Stack · AI/ML<br>🚀 Building projects and improving every day<br>💡 Interested in coding, innovation & open source<br>🤝 Open to collaborations and teamwork<br>
+⚡ Fun Fact: Turning coffee ☕ into code since forever
+
+```cpp
 class Gayathri {
-    public:
-       string mindset = "Never Stop Learning 🚀";
+public:
+    string mindset = "Never Stop Learning 🚀";
 };
-
-
----
+```
 </br>
 <br/>
 
