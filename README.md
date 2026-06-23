@@ -93,9 +93,12 @@ public:
 </p>
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&count_private=true&include_all_commits=true)
 
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+</p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight)
 
 
