@@ -132,10 +132,6 @@ public:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gayathri-50&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gayathri-50&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gayathri-50&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gayathri-50&theme=tokyonight&utcOffset=5.5"/>
