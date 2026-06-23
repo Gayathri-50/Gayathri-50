@@ -92,37 +92,14 @@ public:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-</p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight)
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=tokyonight)
-
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=ff0080&point=ffffff"/>
-
-</div>
-<div align="center">
-
-### Code • Learn • Build • Repeat 🚀
-
-</div>
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+</p>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight&hide_border=true"/>
 
@@ -132,25 +109,14 @@ public:
 
 <br>
 
-## 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-50&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=ff0080&point=ffffff"/>
 
 </div>
 
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gayathri-50&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
-<br>
 
 ## ⚡ Profile Summary
 
@@ -176,3 +142,8 @@ public:
 
 </div>
 
+<div align="center">
+
+### Code • Learn • Build • Repeat 🚀
+
+</div>
