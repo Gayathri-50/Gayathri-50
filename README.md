@@ -93,11 +93,19 @@ public:
 </p>
 
 
-## 📊 GitHub Statistics
 
 
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight"/>
+
+</div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+ 
 </p>
 
 <p align="center">
