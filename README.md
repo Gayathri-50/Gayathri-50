@@ -41,7 +41,7 @@ public:
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    https://www.linkedin.com/in/gayathri-p-27693a383/
+   
 </a>
 
 <a href="mailto:yourmail@gmail.com">
