@@ -96,7 +96,6 @@ public:
 
 
 ## 📈 GitHub Analytics
-https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800
 
 <div align="center">
 
