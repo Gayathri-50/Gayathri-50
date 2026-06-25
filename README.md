@@ -41,6 +41,7 @@ public:
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    https://www.linkedin.com/in/gayathri-p-27693a383/
 </a>
 
 <a href="mailto:yourmail@gmail.com">
@@ -98,7 +99,7 @@ public:
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-50&theme=tokyonight"/>
