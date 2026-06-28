@@ -123,7 +123,7 @@ public:
 </div>
 
 
-## ⚡ Profile 
+## ⚡ Profile Summary
 
 <div align="center">
 
