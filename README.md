@@ -98,20 +98,9 @@ public:
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gayathri-50&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Gayathri-50&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-<p align="center">
- 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-50&layout=compact&theme=tokyonight"/>
-</p>
-<br>
+![](https://github-readme-stats.shion.dev/api?username=Gayathri-50&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Gayathri-50&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gayathri-50&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📊 Contribution Graph
 
