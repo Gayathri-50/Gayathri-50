@@ -92,7 +92,7 @@ public:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Gayathri-50&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
@@ -102,6 +102,7 @@ public:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gayathri-50&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 # 📊 Contribution Graph
 
 <div align="center">
