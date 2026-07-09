@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pallamparthi Gayathri
+#  Gayathri
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Learner;Open+Source+Contributor"/>
 
