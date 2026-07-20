@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pallamparthi Gayathr
+# Pallamparthi Gayathri
 
 
 
